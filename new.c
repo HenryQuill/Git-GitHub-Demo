@@ -1,5 +1,5 @@
 # include <stdio.h>
 int main(){
-	printf("HAPPY NEW YEAR");
+	printf("HAPPY YEAR");
 	return 0;
 }
